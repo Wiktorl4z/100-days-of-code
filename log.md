@@ -12,5 +12,12 @@ Kotlin Koans Introduction
 
 **Thoughts:** Kotlin is awesome!
 
+### Day 1: September 4, 2018
 
+**Today's Progress**:
+Kotlin Koans Introduction
+- Lambdas
+- Nullable types
+
+**Thoughts:** Kotlin no getters / setters!
 
